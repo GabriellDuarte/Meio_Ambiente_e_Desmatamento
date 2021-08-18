@@ -3,13 +3,7 @@ body {
   background: rgb(255, 255, 255);
   font-family: Arial, Helvetica, sans-serif;
 }
- 
-#menu {
 
-  top: 0;
-  width: 100%;
-}
- 
 #menu ul {
   list-style-type: none;
   margin: 0;
@@ -38,8 +32,28 @@ body {
 }
 
 div {
-  margin-left:25%;
+  margin-left:28%;
+  margin-right: 3%;
   padding:1px 16px;
   height:1000px;
 }
 
+img {
+margin: 5em;
+height: 300px;
+width: 500px;  
+}
+
+.h1principal {
+  text-align: center;
+  color: #2e8032;
+}
+
+.h1secundario {
+  color: #2e8032;
+  text-align: center;
+}
+
+iframe {
+  margin-top: 2em;
+}
